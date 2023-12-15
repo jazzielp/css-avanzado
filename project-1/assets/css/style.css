@@ -1,3 +1,11 @@
-h1 {
-    font-family: 'Poppins', sans-serif, 'arial';
+/* ESTILOS GENERALES */
+:root {
+    --color-principal: #fff;
+    --color-secundario: #04B4E0;
+    --color-fondo: #F2F7F9;
+    --color-trasparente: trasparent;
+    --color-icono: #B5B6B7;
+    --color-subtitulo: #888;
 }
+
+/* ESTRUCTURA PRINCIPAL */
